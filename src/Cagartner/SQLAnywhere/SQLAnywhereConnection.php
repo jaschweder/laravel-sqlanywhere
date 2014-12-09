@@ -1,7 +1,7 @@
-<?php namespace Cagartner\SQLAnywhere;
+<?php namespace jaschweder\SQLAnywhere;
 
 use Illuminate\Database\Connection;
-use \Cagartner\SQLAnywhereClient;
+use \jaschweder\SQLAnywhereClient;
 
 class SQLAnywhereConnection extends Connection {
 
