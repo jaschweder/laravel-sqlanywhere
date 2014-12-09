@@ -1,8 +1,8 @@
-<?php namespace jaschweder\SQLAnywhere;
+<?php namespace Jaschweder\SQLAnywhere;
 
 use Illuminate\Database\Connectors\Connector;
 use Illuminate\Database\Connectors\ConnectorInterface;
-use \jaschweder\SQLAnywhereClient;
+use \Jaschweder\SQLAnywhereClient;
 
 class SQLAnywhereConnector extends Connector implements ConnectorInterface {
 

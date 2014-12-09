@@ -1,5 +1,5 @@
 {
-    "name": "jaschweder/laravel-sqlanywhere",
+    "name": "Jaschweder/laravel-sqlanywhere",
     "description": "A Sybase driver based Eloquent model and Query builder for Laravel 4",
     "keywords": ["laravel","eloquent","sybase","sqlanywhere","database","model"],
     "authors": [
@@ -13,7 +13,7 @@
         "php": ">=5.4.0",
         "illuminate/support": "4.*",
         "illuminate/database": "4.*",
-        "jaschweder/sql-anywhere-client": "dev-master"
+        "Jaschweder/sql-anywhere-client": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "2.1.*",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-0": {
-            "jaschweder\\SQLAnywhere": "src/"
+            "Jaschweder\\SQLAnywhere": "src/"
         }
     }
 }

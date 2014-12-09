@@ -1,4 +1,4 @@
-<?php namespace jaschweder\SQLAnywhere;
+<?php namespace Jaschweder\SQLAnywhere;
 
 use Illuminate\Support\Fluent;
 use Illuminate\Database\Schema\Blueprint;
