@@ -16,7 +16,7 @@
         "Jaschweder/sql-anywhere-client": "dev-master"
     },
     "require-dev": {
-        "orchestra/testbench": "2.1.*",
+        "orchestra/testbench": "2.1.2",
         "mockery/mockery": "*"
     },
     "autoload": {
